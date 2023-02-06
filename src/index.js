@@ -1,5 +1,5 @@
 //--------------------------------------------------------
-//-- @absolunet/capturing-group-values
+//-- @valtech-commerce/capturing-group-values
 //--------------------------------------------------------
 import { Joi, validateArgument } from '@absolunet/joi';
 
@@ -7,7 +7,7 @@ import { Joi, validateArgument } from '@absolunet/joi';
 /**
  * Extract values from a RegExp capturing groups.
  *
- * @module @absolunet/capturing-group-values
+ * @module @valtech-commerce/capturing-group-values
  * @param {string} base - The string against which to match.
  * @param {RegExp} pattern - The regular expression.
  * @returns {object} Values extracted.
